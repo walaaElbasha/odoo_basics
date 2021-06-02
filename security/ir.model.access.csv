@@ -1,0 +1,6 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_medicine_medicine,medicine.medicine,model_medicine_medicine,base.group_user,1,1,1,1
+access_order_lines,order_lines,model_order_lines,base.group_user,1,1,1,1
+access_orders,orders,model_orders,base.group_user,1,1,1,1
+access_medicine_wizard,medicine.wizard,model_medicine_wizard,base.group_user,1,1,1,1
+
